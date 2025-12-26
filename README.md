@@ -72,7 +72,7 @@ sudo pacman -S iproute2
 
 1. Clone this repository:
 ```bash
-git clone [https://github.com/your-username/SLOWwwww.git](https://github.com/your-username/SLOWwwww.git)
+git clone [https://github.com/stop6G/SLOWwwww.git](https://github.com/STOP6G/SLOWwwww.git)
 cd SLOWwwww
 
 ```
@@ -80,7 +80,7 @@ cd SLOWwwww
 
 2. Make sure the script is executable (optional):
 ```bash
-chmod +x net_shaper.py
+chmod +x SLOWwwww.py
 
 ```
 
@@ -92,7 +92,7 @@ chmod +x net_shaper.py
 
 1. **Start the tool:**
 ```bash
-sudo python3 net_shaper.py
+sudo python3 SLOWwwww.py
 
 ```
 
