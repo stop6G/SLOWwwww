@@ -10,25 +10,25 @@ Take a deep breath and **enjoy the slowness**.
 
 ## 🖕 Fuck Efficiency
 
-We are obsessed with "Hi-Tech.". 
-We love "Performance." 
-We measure milliseconds and worship efficiency.
-The real world is a 3G signal in a basement.
-It's a crowded coffee shop Wi-Fi.
-It is messy, chaotic, and **slow**.
-In a world of instant gratification, we have forgotten the art of waiting
-With 600ms latency, every interaction becomes intentional.
-Watch a progress bar fill up pixel by pixel. Feel the anticipation.
-Reclaim your coffee break. Select the *Dial-up* preset, hit enter, and go brew a fresh pot while your dependencies install
-Sometimes
-to
-go
-fast,
-you
-have
-to
-go
-SLOWwwww
+We are obsessed with "Hi-Tech.".   
+We love "Performance."   
+We measure milliseconds and worship efficiency.  
+The real world is a 3G signal in a basement.  
+It's a crowded coffee shop Wi-Fi.  
+It is messy, chaotic, and **slow**.  
+In a world of instant gratification, we have forgotten the art of waiting.  
+With 600ms latency, every interaction becomes intentional.  
+Watch a progress bar fill up pixel by pixel. Feel the anticipation.  
+Reclaim your coffee break. Select the *Dial-up* preset, hit enter, and go brew a fresh pot while your dependencies install   
+Sometimes  
+to  
+go  
+fast,  
+you  
+have  
+to  
+go  
+SLOoOoW
 
 
 ## 🚀 Features
