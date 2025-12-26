@@ -4,6 +4,11 @@
 **S**ystematic **L**ag **O**ver... **o**h... **O**h... **o**h... **W**ait.
 
 **A lightweight cross-platform Python wrapper for Linux (`tc`) and macOS (`dnctl`).** This tool allows people to turn their fast connection into a **Sanctuary of Lag** 🧘.
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="dark-mode-image.png">
+  <source media="(prefers-color-scheme: light)" srcset="light-mode-image.png">
+  <img alt="Fallback image description" src="default-image.png">
+</picture>
 
 Instead of rushing through the web, simulate **Starlink** jitters, **2G** dropouts, or **Satellite** latency. We even included a theoretical  fucking **6G** preset for the speed addicts, though honestly, where is the fun in that? (fuck it!) 
 Take a deep breath and **enjoy the slowness**.
@@ -23,7 +28,7 @@ Reclaim your coffee break. Select the *Dial-up* preset, hit enter, and go brew a
 Sometimes  
 to  
 go  
-fast,  
+fast,   
 you  
 have  
 to  
