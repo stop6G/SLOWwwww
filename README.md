@@ -1,7 +1,7 @@
 
-# 🐌 SLOWwwww
+# 🐌 SLOoOoW
 
-**S**ystematic **L**ag **O**ver **W**... wait... wait... wait... wait...
+**S**ystematic **L**ag **O**ver... **o**h... **O**h... **o**h... **W**ait.
 
 A lightweight Python wrapper for the Linux Traffic Control (`tc`) subsystem. This tool allows people to turn their fast connection into a **Sanctuary of Lag** 🧘.
 
